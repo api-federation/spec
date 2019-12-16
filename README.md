@@ -1,6 +1,8 @@
 # Location for spec
 
-The API Federation Group aims to create a set of specifications that allow API management systems to interoperate and thereby enable federated APIs. 
+## The aim of this group is to create vendor-neutral open specifications that enable API federation.
+
+'Federation of APIs' or 'API Federation' involves creating systems where API consumers and API producers are not directly connected and do not need to directly trust each other.
 
 The discussion group is https://groups.google.com/forum/m/#!forum/api-federation
 
